@@ -1,37 +1,34 @@
 # 👋 안녕하세요, [박영훈]입니다!
 
-### 💻 Python & Flask 기반 AI 서비스 개발자
-데이터 분석부터 웹 서비스 구현까지 전 과정을 다루는 것을 지향합니다.
-단순한 모델 학습을 넘어, **Flask를 활용한 실시간 예측 서비스 구축** 역량을 보유하고 있습니다.
+### 🚀 AI Service & Backend Engineer
+데이터 수집부터 AI 모델 서빙, DB 연동까지 **Full-Cycle 개발**이 가능한 개발자입니다. 
+복잡한 시계열 데이터와 실시간 영상 분석을 서비스화하는 것에 강점이 있습니다.
 
 ---
 
 ### 🛠️ Tech Stack
-**Backend & Web**
+**AI & Computer Vision**
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+
+**Backend & Database**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
-**AI & Data Analysis**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+**Data Processing**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 📂 주요 프로젝트: 미세먼지 등급 분류 에이전트
-> **사용자가 위치를 선택하면 AI가 실시간으로 미세먼지 등급을 분류해주는 웹 서비스**
-
-* **주요 역할**: 
-    * `Flask`를 활용한 웹 서버 구축 및 API 설계
-    * `TensorFlow/GRU` 기반의 미세먼지 시계열 분류 모델 개발
-    * 공공데이터포털 API 연동 및 데이터 전처리
-* **핵심 성과**: 텍스트 형태의 수치 데이터를 시각적인 '등급'으로 변환하여 사용자 편의성 증대
+### 📂 주요 프로젝트: 미세먼지 및 환경 분석 에이전트
+- **YOLOv8 & GRU 기반 지능형 분석**: 실시간 영상 인식 및 미세먼지 등급 분류
+- **멀티스레딩 최적화**: `ThreadPoolExecutor`를 활용한 대용량 데이터 처리 속도 개선
+- **DB 연동**: Oracle 기반의 이력 데이터 관리 및 분석용 API 구축
 
 ---
 
 ### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Park-Y-H]&show_icons=true&theme=radical)
-
----
-
-### 📫 Contact
-- **Email**: [dudgns9904@naver.com]
